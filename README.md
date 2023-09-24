@@ -36,7 +36,6 @@ The dataset used for this assessment can be downloaded from the following link: 
 
 To use the dataset in the assessment, download it and place it in the same directory as the Jupyter Notebook files.
 
-
 ## Usage
 1. Start with Section 1 to clean the data and set up the local database.
 2. Proceed to Section 2 to perform data analysis and run SQL queries.
