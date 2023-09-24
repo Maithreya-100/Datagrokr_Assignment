@@ -26,9 +26,15 @@ In this section, we set up a Flask server to create a REST API. The Flask server
 - Basic error handling for invalid requests.
 
 ## Bonus:
-As a bonus, you can deploy the Flask API using ngrok to create a publicly accessible URL for testing and sharing the API with others.
+As a bonus, you can deploy the Flask API using ngrok to create a publicly accessible URL for testing and sharing the API with others, but here i've implemented using **WSGI**
+There are two Jupyter Notebook files in this repository:
+
+1. **Flask_Output.ipynb**: This notebook contains code for the Flask API that provides standard text-based output.
+
+2. **Flask_HTML_Interface.ipynb**: This notebook enhances the Flask API by providing an HTML-based interface for interacting with the API. It allows users to input parameters and receive results with a user-friendly interface.
 
 **Deliverables (Bonus):**
+- WSGI Flask API.
 - Ngrok setup for the Flask API.
 
 ## Dataset
